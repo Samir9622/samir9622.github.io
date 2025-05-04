@@ -361,9 +361,9 @@
                         Project One
                     </h3>
                     <p>Description of your first project. Explain what it does and what technologies were used.</p>
-                    <div class="https://samir9622.github.io/Toolhubs-1/">
-                        <a href="#" class="https://samir9622.github.io/Toolhubs-1/"><i class="fas fa-globe"></i> Live Demo</a>
-                        <a href="#" class="https://samir9622.github.io/Toolhubs-1/"><i class="fab fa-github"></i> Repository</a>
+                    <div class="project-link https://samir9622.github.io/Toolhubs-1/">
+                        <a href="#" class="project-link https://samir9622.github.io/Toolhubs-1/"><i class="fas fa-globe"></i> Live Demo</a>
+                        <a href="#" class="project-link https://samir9622.github.io/Toolhubs-1/"><i class="fab fa-github"></i> Repository</a>
                     </div>
                 </div>
             </div>
@@ -376,9 +376,9 @@
                         Project Two
                     </h3>
                     <p>Description of your second project. Explain what it does and what technologies were used.</p>
-                    <div class="https://samir9622.github.io/Toolhubs-2/">
-                        <a href="#" class="https://samir9622.github.io/Toolhubs-2/"><i class="fas fa-globe"></i> Live Demo</a>
-                        <a href="#" class="https://samir9622.github.io/Toolhubs-2/"><i class="fab fa-github"></i> Repository</a>
+                    <div class="project-link https://samir9622.github.io/Toolhubs-2/">
+                        <a href="#" class="project-link https://samir9622.github.io/Toolhubs-2/"><i class="fas fa-globe"></i> Live Demo</a>
+                        <a href="#" class="project-link https://samir9622.github.io/Toolhubs-2/"><i class="fab fa-github"></i> Repository</a>
                     </div>
                 </div>
             </div>
@@ -391,9 +391,9 @@
                         Project Three
                     </h3>
                     <p>Description of your third project. Explain what it does and what technologies were used.</p>
-                    <div class="https://samir9622.github.io/Tools-index.html-2/">
-                        <a href="#" class="https://samir9622.github.io/Tools-index.html-2/"><i class="fas fa-globe"></i> Live Demo</a>
-                        <a href="#" class="https://samir9622.github.io/Tools-indec.html-2/"><i class="fab fa-github"></i> Repository</a>
+                    <div class="project-link https://samir9622.github.io/Tools-index.html-2/">
+                        <a href="#" class="project-link https://samir9622.github.io/Tools-index.html-2/"><i class="fas fa-globe"></i> Live Demo</a>
+                        <a href="#" class="project-link https://samir9622.github.io/Tools-indec.html-2/"><i class="fab fa-github"></i> Repository</a>
                     </div>
                 </div>
             </div>
