@@ -440,7 +440,7 @@
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>© 2024 Samir9622. All rights reserved.</p>
+                <p>© 2025 Samir9622. All rights reserved.</p>
             </div>
         </div>
     </footer>
